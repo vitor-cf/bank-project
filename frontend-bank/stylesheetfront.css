@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(98, 245, 135);
+}
+
+.f-name {
+    margin-right: 50px;
+    margin-left: 20vw;
+
+}
+
+
+
+
+fieldset {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    gap: 20px;
+    width: auto;
+    height: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: solid;
+    justify-content: center;
+}
+
+.sub-button {
+    background-image: linear-gradient(90deg, #20BF55, #01BAEF);
+    border-radius: 25px;
+    border-color: rgb(98, 245, 135);
+    width: 150px;
+    height: 40px;
+    color: aliceblue;
+    text-transform: uppercase;
+}
