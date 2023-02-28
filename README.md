@@ -11,8 +11,8 @@
   - COMPOSER
 # Iniciando servidor (Back-end)
   No terminal digite:
-  composer install
-  php artisan server
+  - composer install
+  - php artisan server
   
  
   
